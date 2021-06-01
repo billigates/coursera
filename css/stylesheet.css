@@ -1,0 +1,41 @@
+body{background-color:#E4E8F9 ;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.head {
+    text-align: center;
+    padding: 4%;
+  }
+  
+
+.left {
+    color: blue;
+    border: solid black;
+    text-align: left;
+    padding: 11%;
+    padding-top: 2%;
+    margin: 3%;
+}  
+
+.middle {
+    color: blue;
+    border: solid black;
+    text-align: center;
+    padding: 11%;
+    padding-top: 2%;
+    margin: 3%;
+
+
+    
+}  
+
+.right {
+    color: blue;
+    border: solid black;
+    text-align: right;
+    padding: 11%;
+    padding-top: 2%;
+    margin: 3%;
+
+   
+}  
